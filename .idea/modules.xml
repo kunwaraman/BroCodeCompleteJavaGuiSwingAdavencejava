@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BorderLayout/BorderLayout.iml" filepath="$PROJECT_DIR$/BorderLayout/BorderLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buttons/Buttons.iml" filepath="$PROJECT_DIR$/Buttons/Buttons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CheckBoxes/CheckBoxes.iml" filepath="$PROJECT_DIR$/CheckBoxes/CheckBoxes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeagDropImages/DeagDropImages.iml" filepath="$PROJECT_DIR$/DeagDropImages/DeagDropImages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6 FlowLayout/FlowLayout.iml" filepath="$PROJECT_DIR$/6 FlowLayout/FlowLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GridLayout7/GridLayout7.iml" filepath="$PROJECT_DIR$/GridLayout7/GridLayout7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HowToOpenNewWindowInSwing9/HowToOpenNewWindowInSwing9.iml" filepath="$PROJECT_DIR$/HowToOpenNewWindowInSwing9/HowToOpenNewWindowInSwing9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JLayeredPane8/JLayeredPane8.iml" filepath="$PROJECT_DIR$/JLayeredPane8/JLayeredPane8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JOptionPane9/JOptionPane9.iml" filepath="$PROJECT_DIR$/JOptionPane9/JOptionPane9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jcolorchooser/Jcolorchooser.iml" filepath="$PROJECT_DIR$/Jcolorchooser/Jcolorchooser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jfilechooser/Jfilechooser.iml" filepath="$PROJECT_DIR$/Jfilechooser/Jfilechooser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeyBinding/KeyBinding.iml" filepath="$PROJECT_DIR$/KeyBinding/KeyBinding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Keylistener/Keylistener.iml" filepath="$PROJECT_DIR$/Keylistener/Keylistener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labels/Labels.iml" filepath="$PROJECT_DIR$/Labels/Labels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MenuBars/MenuBars.iml" filepath="$PROJECT_DIR$/MenuBars/MenuBars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MenuBars17/MenuBars17.iml" filepath="$PROJECT_DIR$/MenuBars17/MenuBars17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MouseListener/MouseListener.iml" filepath="$PROJECT_DIR$/MouseListener/MouseListener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pannels/Pannels.iml" filepath="$PROJECT_DIR$/Pannels/Pannels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgressBar16/ProgressBar.iml" filepath="$PROJECT_DIR$/ProgressBar16/ProgressBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RadioButton13/RadioButton13.iml" filepath="$PROJECT_DIR$/RadioButton13/RadioButton13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliders15/Sliders15.iml" filepath="$PROJECT_DIR$/Sliders15/Sliders15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SwingInJava.iml" filepath="$PROJECT_DIR$/.idea/SwingInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextFields11/TextFields11.iml" filepath="$PROJECT_DIR$/TextFields11/TextFields11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoDAnimation/TwoDAnimation.iml" filepath="$PROJECT_DIR$/TwoDAnimation/TwoDAnimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoDgraphics/TwoDgraphics.iml" filepath="$PROJECT_DIR$/TwoDgraphics/TwoDgraphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comboboxes14/comboboxes14.iml" filepath="$PROJECT_DIR$/comboboxes14/comboboxes14.iml" />
+    </modules>
+  </component>
+</project>
